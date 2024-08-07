@@ -1,4 +1,5 @@
-# Financial-Statistic-Dashboard
+# Financial-Statistic-Dashboard using EXCEL
+
 # Overall Income Source Report
 ![Screenshot 2024-08-07 235027](https://github.com/user-attachments/assets/b5a0a857-62e0-4ba7-9feb-ff02e70fc96c)
 # Overall Country wise Report
